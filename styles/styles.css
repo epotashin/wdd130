@@ -30,14 +30,17 @@ main {
     max-width: 840px
 }
 
-aside h2 {
+aside h2{
   position: relative;
   top: 0px;
-  left: 60px;
+  left: 60px;  
 }
 aside img {
     width: 200px;
     height: auto
+    border: 1px solid steelblue;
+    padding: 2px;
+    box-shadow: 0 0 30px gray
 }
 footer {
   margin-top: 15px;
